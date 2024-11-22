@@ -406,3 +406,5 @@ Homepage: <https://dvwa.co.uk/>
 Project Home: <https://github.com/digininja/DVWA>
 
 *Created by the DVWA team*
+
+[![Security Status](https://img.shields.io/badge/Security-High%3A%206-important%20Medium%3A%2094-yellow)](http://127.0.0.1:5000/report/None)
